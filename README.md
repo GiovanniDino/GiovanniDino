@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GiovanniDino
 - 👀 I’m interested in Fantasy Earth Zero
 - 🌱 I’m currently learning Go language
-- 💞️ I’m looking to collaborate on AUO
+- 💞️ I’m looking to collaborate on pwq
 - 📫 How to reach me LycorisHaung@auo.com
 
 <!---
